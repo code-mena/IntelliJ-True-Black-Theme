@@ -112,6 +112,8 @@ Originally a pure black and white theme, True Dark has evolved into an elegant d
 
 Thanks to [Zihan Ma](https://github.com/WhiteVermouth) for creating the [Xcode-Theme](https://github.com/WhiteVermouth/XcodeTheme) that provided the initial foundation for this project.
 
+And thanks to [Ahmed Elshaer](https://github.com/ahmed3elshaer) for making this beautiful theme
+
 ## License
 ### MIT License
 ```aidl
