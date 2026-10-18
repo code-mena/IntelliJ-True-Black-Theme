@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0.4] - 2026-10-18
+
+### 🔧 **JDK/IntelliJ version update, bugfix and un-needed code reduction**
+- **REMOVED**: Deleted all of the kotlin files since the classes were empty and didn't really have any meaning.
+- **Before**: The annoying error of True Light Islands appeared when starting any project.
+- **After**: That error is no longer to be seen.
+
+---
+
 ## [2.0.3] - 2025-05-24
 
 ### 👁️ **True Black Visibility Enhancement - Critical Usability Fix**

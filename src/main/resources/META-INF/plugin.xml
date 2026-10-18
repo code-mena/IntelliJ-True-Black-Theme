@@ -74,8 +74,6 @@
     ]]></change-notes>
     
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.ahmed3elshaer.trueblack.settings.PluginMetaSettings"/>
-        <postStartupActivity implementation="com.ahmed3elshaer.trueblack.activities.StartupActivity"/>
         <notificationGroup displayType="STICKY_BALLOON" id="True Dark," isLogByDefault="true"/>
         <themeProvider id="ae7a917c-04b2-4468-bab7-6ddd4c43f879" path="/TrueBlack.theme.json"/>
         <themeProvider id="ae7a917c-04b2-4468-bdd8-6ddd4c43f879" path="/TrueDark.theme.json"/>

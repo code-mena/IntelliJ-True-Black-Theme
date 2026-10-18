@@ -40,3 +40,5 @@ out
 gen
 local.properties
 *.hprof
+.intellijPlatform/
+.kotlin/
